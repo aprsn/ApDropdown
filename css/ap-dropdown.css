@@ -12,7 +12,7 @@
   }
 
   .ap-dropdown { display: inline-block; cursor: pointer; width: 100%; height: 40px; padding: 0 5px 0 5px;  -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
-  .ap-dropdown .head { line-height: 40px; padding: 0 5px 0 5px; overflow: hidden; white-space: nowrap; border-radius: 5px; }
+  .ap-dropdown .head { height: 40px; line-height: 40px; padding: 0 5px 0 5px; overflow: hidden; white-space: nowrap; border-radius: 5px; }
   .ap-dropdown .head .title { font-family: 'Open Sans', sans-serif; display: inline-block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: calc(100% - 40px); font-size: 20px; color: #fff; }
   .ap-dropdown .head:after { color: #fff; font-size: 40px; float: right; padding: 0 10px 0 0; }
 
